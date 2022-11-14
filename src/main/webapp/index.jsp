@@ -8,11 +8,11 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to our new Maven web Application </h1>
-      <h1> hello GLSI </h1>
+      <h1> hello DMWM and GLSI </h1>
       <img src="https://www.tek-up.de/plans/img/logo-header.png" alt="Spidertocat"
            class="img-responsive center-block" style={{width: 300px}}/>
       <h1 class="text-center">My Web Server deployment is done with jenkins</h1>
-      <h2 class="text-center">This project is auto-deployed by SCM Webhook trigger with Oreedoo and using ngrok tunneling </h2>
+      <h2 class="text-center">This project is auto-deployed by SCM Webhook trigger with tek-up and using webhook relay tunneling </h2>
   </div>
 </body>
 </html>
