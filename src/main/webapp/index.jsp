@@ -8,7 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to our new Maven web Application </h1>
-      <h1> hello DMWM and GLSI le 14/11/2022 Project devops deadline 30/11/2022</h1>
+      <h1> hello DMWM and GLSI le 14/11/2022 Project devops deadline 30/11/2022 hello GLSI_A</h1>
       <img src="https://www.tek-up.de/plans/img/logo-header.png" alt="Spidertocat"
            class="img-responsive center-block" style={{width: 300px}}/>
       <h1 class="text-center">My Web Server deployment is done with jenkins</h1>
